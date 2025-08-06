@@ -13,10 +13,11 @@
   - We don't aim to replace bancho or the main branch of osu! like a private server. We aim to expand the current possibilities that bancho allow us to do.
 
 ## Technical Overview
-- **Technology Stack:** Javascript, Angular Material, Python, Connexion.
+- **Backend Technology Stack:** Python, Connexion, Postgresql, Redis, Docker
+- **Frontend Technology Stack:** Javascript, React, Docker
 - **Architecture:**
 
-![](http://a.pianosuki.com/u/Graveboards_v1-1.drawio.png)
+![](http://a.pianosuki.com/u/Graveboards_v1-2.drawio.png)
 
 ## Collaboration Plan
 - **Roles and Responsibilities:**
